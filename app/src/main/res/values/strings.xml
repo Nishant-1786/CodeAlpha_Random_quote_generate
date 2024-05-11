@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="quote_of_the_day">Quote of the day -</string>
+    <string name="generate">Generate</string>
+</resources>
